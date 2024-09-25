@@ -10,7 +10,7 @@ Na pasta aulas, você encontrará anotações de cada aula do curso, dividido em
 Na pasta exercícios, você encontrará a resolução dos mais diversos exercícios feitos durante o curso, em HTML, JS e CSS.
 
 ### Anotações das aulas teóricas:
-01. [JS - Introdução e lista de livros](.aulas/introdução.md)
+01. [JS - Introdução e lista de livros](./aulas/introdução.md)
 02. [Aula 04 - Módulo A](./aulas/aula04.md)
 03. [Aula 05 - Módulo B](./aulas/aula05.md)
 04. [Aula 06 - Módulo B](./aulas/aula06.md)
