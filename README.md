@@ -22,6 +22,9 @@ Na pasta exercícios, você encontrará a resolução dos mais diversos exercíc
 10. [Aula 12 - Módulo D](./aulas/aula12.md)
 11. [Aula 13 - Módulo E](./aulas/aula13.md)
 12. [Aula 14 - Módulo E](./aulas/aula14.md)
+13. [Aula 15 - Módulo F](./aulas/aula15.md)
+14. [Aula 16 - Módulo F](./aulas/aula16.md)
+15. [Aula 17 - Módulo F](./aulas/aula17.md)
 
 
 ### Exercícios práticos:
