@@ -9,12 +9,12 @@ Operadores ***relacionais, lógicos e ternário***
 
 RELACIONAIS
 
-- >
-- <
-- >=
-- <=
-- ==
-- !=
+- `>`
+- `<`
+- `>=`
+- `<=`
+- `==`
+- `!=`
 
 Para toda expressão que tenha um operador *relacional* ligado a ela, o resultado vai ser um ***boolean value: true or false***
 
