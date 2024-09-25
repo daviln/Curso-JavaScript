@@ -11,17 +11,17 @@ Na pasta exercícios, você encontrará a resolução dos mais diversos exercíc
 
 ### Anotações das aulas teóricas:
 01. [JS - Introdução e lista de livros](.aulas/introdução.md)
-02. [Aula 04 - Módulo A](.aulas/aula04.md)
-03. [Aula 05 - Módulo B](.aulas/aula05.md)
-04. [Aula 06 - Módulo B](.aulas/aula06.md)
-05. [Aula 07 - Módulo B](.aulas/aula07.md)
-06. [Aula 08 - Módulo B](.aulas/aula08.md)
-07. [Aula 09 - Módulo C](.aulas/aula09.md)
-08. [Aula 10 - Módulo C](.aulas/aula10.md)
-09. [Aula 11 - Módulo D](.aulas/aula11.md)
-10. [Aula 12 - Módulo D](.aulas/aula12.md)
-11. [Aula 13 - Módulo E](.aulas/aula13.md)
-12. [Aula 14 - Módulo E](.aulas/aula14.md)
+02. [Aula 04 - Módulo A](./aulas/aula04.md)
+03. [Aula 05 - Módulo B](./aulas/aula05.md)
+04. [Aula 06 - Módulo B](./aulas/aula06.md)
+05. [Aula 07 - Módulo B](./aulas/aula07.md)
+06. [Aula 08 - Módulo B](./aulas/aula08.md)
+07. [Aula 09 - Módulo C](./aulas/aula09.md)
+08. [Aula 10 - Módulo C](./aulas/aula10.md)
+09. [Aula 11 - Módulo D](./aulas/aula11.md)
+10. [Aula 12 - Módulo D](./aulas/aula12.md)
+11. [Aula 13 - Módulo E](./aulas/aula13.md)
+12. [Aula 14 - Módulo E](./aulas/aula14.md)
 
 
 ### Exercícios práticos:
