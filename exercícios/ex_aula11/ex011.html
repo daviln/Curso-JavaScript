@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle de Naturalidade</title>
+</head>
+<body>
+    <h1>Sistema de País</h1>
+    País: <input type="text" id="pais">
+    <input type="button" value="Verificar" onclick="calcular()">
+    <div id="res"></div>
+    <script>
+
+        function calcular() {
+           var pais = document.querySelector('input#pais'); 
+           var res = document.querySelector('div#res');
+           if (pais.value.toLowerCase() === 'brasil') {
+            res.innerHTML = 'Você é Brasileiro!';
+           } else {
+            res.innerHTML = 'Você é Estrangeiro!';
+           }
+        }
+    </script>
+</body>
+</html>

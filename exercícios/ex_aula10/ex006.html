@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos DOM</title>
+    <style>
+        div#area {
+            background: rgb(91, 137, 21);
+            color: whitesmoke;
+            width: 200px;
+            height: 200px;
+            line-height: 200px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="area" onclick="clicar()" onmouseenter="entrar()" onmouseout="sair()"> 
+    <!--Quando eu clicar em cima da div, vai disparar o clicar() - onclick vai chamar minha ação (clicar())-->
+        Interaja...
+    </div>
+    <script>
+        //var a = window.document.getElementById('area') - uma maneira de fazer, 
+        //criando uma variavel global e usando dentro das minha functions um a.innerText, 
+        //porém não é a melhor maneira de fazer, mais pra frente pode dar problema por escopo
+        /*
+        outra forma de fazer esses comandos que fiz no div, mas realizando tudo dentro do javascript, e não no html:
+        a.addEventListener('click', clicar)
+        a.addEventListener('mouseenter', entrar)
+        a.addEventListener('mouseout', sair)
+        */
+        function clicar() {
+            //quando eu chamar o clicar(), vai executar tudo que estiver dentro dessa minha function clicar()
+            //a.innerText = 'Clicou!'
+            window.document.getElementById('area').innerText = 'Clicou!'  //faz uma ligação do meu elemento de id area que ta dentro do HTML
+            window.document.getElementById('area').style.background = 'red'
+        }
+        function entrar() {
+            window.document.getElementById('area').innerText = 'Entrou!'
+        }
+        function sair() {
+            window.document.getElementById('area').innerText = 'Saiu!'
+            document.getElementById('area').style.background = 'green'
+        }
+    </script>
+</body>
+</html>
