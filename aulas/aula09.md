@@ -1,6 +1,6 @@
 # Aula 09 - Módulo C
 
-Tema: Introdução ao DOM
+Tema: Introdução ao DOM  
 Link: [aula 09](https://youtu.be/WWZX8RWLxIk)
 
 Entendendo o DOM
@@ -9,10 +9,10 @@ Desenvolver em JS para front end
 
 Recap
 
-dentro do meu <body></body>
+dentro do meu `<body></body>`
 
-- <h1>uso h1 para texto</h1>
-- <p>uso p para parágrafo, escrevo um texto e vai sair na linha debaixo - a formatação de fonte, tamanho da letra também muda usando p</p>
+- `<h1>uso h1 para texto</h1>`
+- `<p>uso p para parágrafo, escrevo um texto e vai sair na linha debaixo - a formatação de fonte, tamanho da letra também muda usando p</p>`
 
 O que é DOM?
 

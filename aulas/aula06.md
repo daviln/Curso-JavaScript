@@ -1,6 +1,6 @@
 # Aula 06 - Módulo B
 
-Tema: Tratamento de dados
+Tema: Tratamento de dados  
 Link: [aula 06](https://youtu.be/OJgu_KCCUSY)
 
 Tratamento de dados

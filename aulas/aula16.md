@@ -1,6 +1,6 @@
 # Aula 16 - Módulo F
 
-Tema: Funções 
+Tema: Funções  
 Link: [aula 16](https://youtu.be/mc3TKp2XzhI)
 
 Uso de funções em JS

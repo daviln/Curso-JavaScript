@@ -1,6 +1,6 @@
 # Aula 07 - Módulo B
 
-Tema: Operadores (parte 1)
+Tema: Operadores (parte 1)  
 Link: [aula 07](https://youtu.be/hZG9ODUdxHo)
 
 

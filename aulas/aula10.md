@@ -1,6 +1,6 @@
 # Aula 10 - Módulo C
 
-Tema: Eventos DOM
+Tema: Eventos DOM  
 Link: [aula 10](https://youtu.be/wWnBB-mZIvY?si=LyVGTLgEY82jZ9Ny)
 
 Recap DOM —> Um facilitador que existe dentro do navegador (dentro do HTML5), para dar acesso aos elementos, diretamente pro JavaScript

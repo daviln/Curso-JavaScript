@@ -1,6 +1,6 @@
 # Aula 08 - Módulo B 
 
-Tema: Operadores (parte 2)
+Tema: Operadores (parte 2)  
 Link: [aula 08](https://youtu.be/BP63NhITvao)
 
 Operadores do JS (parte 2)
@@ -37,7 +37,7 @@ Operadores relacionais - IDENTIDADE
 
 Usando o operador de IDENTIDADE (operador de igualdade restrita):
 
-5 === ‘5' —> false (3 sinais de iguais - quero saber se os dois 5 são *idênticos (mesmo valor e mesmo tipo)*
+5 === ‘5' —> false (3 sinais de iguais - quero saber se os dois 5 são *idênticos (mesmo valor e mesmo tipo)*)
 
 5 === 5 —> true
 

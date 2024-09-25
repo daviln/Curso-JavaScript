@@ -1,6 +1,6 @@
 # Aula 04 - Módulo A
 
-Tema: Criando seu primeiro Script
+Tema: Criando seu primeiro Script  
 Link: [aula 04](https://youtu.be/OmmJBfcMJA8)
 
 
@@ -35,8 +35,9 @@ tag <title>:
 dentro do meu body:
 
 - posso escrever o que quiser que vai aparecer no site, na área branca;
-- se eu quiser transformar um escrito simples qualquer em um título dentro do body, uso <h1>título</h1>
-- para criar um parágrafo, uso <p>texto</p>
+- se eu quiser transformar um escrito simples qualquer em um título dentro do body, uso 
+`<h1>título</h1>`
+- para criar um parágrafo, uso `<p>texto</p>`
 
 Temos a parte de estilo do site - tag style
 
