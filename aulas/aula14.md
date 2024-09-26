@@ -13,7 +13,7 @@ Estrutura de repetição com variável de controle:
         - O teste lógico sendo verdadeiro, executa o bloco e volta para a inicialização do while para repetir o processo, mas dessa vez realizando um *incremento*
 - Usando a estrutura *for:*
 
-for (inicio; teste; incrível) {
+for (inicio; teste; incremento) {
 
 *BLOCO*
 
